@@ -1,0 +1,28 @@
+
+step1>> create some folders in SRC
+
+step2>> in Src we create components folders
+    step2.1>> in componets folder create three more folder which is-
+              Auth and Dashboard and Tasklist
+             i) Auth is used for authentication like who login something.  file(component)
+             ii) Dashboard is used for performing admin and employee datas.
+            iii) tasklist is used for performing the task.
+
+    Step2.2>> we create a context folder, in context folder have two file for pass the data. 
+    step2.3>> We create a util folder , in util folder will make login 
+
+step3>> first page we create Login page where we made the login page
+
+step4>> second page we create Employee Dashboard 
+    step4.1>> In employee dashboard we create first new task boxes
+    step4.2>> In employee dashboard we create some sliders.
+
+Step5>> Third page we created the Admin Dashboardfrom others folder
+    Step5.1>> we create another file which name is- CreateTask and Alltask form the others folder.
+    step5.2>>  In Admin Dashboard we import Header file and createtask and alltask file 
+
+Step6>> Fourth we make the context folder and wrap all the datas with authcontext and taskcontext from main.jsx file.
+
+step7 >> in Alltask we create all the tasks assign to the employee(admin dashboard)
+
+step8 >> 
